@@ -100,10 +100,15 @@ Video Intelligence: Extract metadata from videos.
 Google Cloud’s operations suite: Monitoring and management for services, containers, applications, and infrastructure.
 
 ● Cloud Monitoring: Monitoring for applications on Google Cloud and AWS.
+
 ● Cloud Logging: Logging for applications on Google Cloud and AWS.
+
 ● Error Reporting: Identifies and helps you understand application errors.
+
 ● Cloud Trace: Find performance bottlenecks in production.
+
 ● Cloud Debugger: Investigate code behavior in production.
+
 ● Cloud Profiler: Continuous CPU and heap profiling to improve performance and reduce costs.
 
 Transparent Service Level Indicators: Monitor Google Cloud services and their effects on your workloads.
